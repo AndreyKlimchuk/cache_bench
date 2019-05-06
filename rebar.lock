@@ -1,0 +1,4 @@
+[{<<"ecache">>,
+  {git,"https://github.com/Ledest/ecache.git",
+       {ref,"45ee6b6cbc8ed07bb854a786e06cafe72a94b583"}},
+  0}].
